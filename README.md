@@ -195,7 +195,7 @@ Prediction Process:
 
 For making predictions on new, unseen data, the base classifiers generate predictions, and these predictions are then fed into the trained meta-learner to produce the final ensemble prediction.
 
-So, this is a fun project and i jhope al ot of people will get benefit from this .
+So, this is a fun project and i hope alot of people will get benefit from this .
 
 THANK YOU.
 
